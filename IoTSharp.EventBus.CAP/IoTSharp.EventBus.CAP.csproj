@@ -16,7 +16,7 @@
 		<PackageReference Include="DotNetCore.CAP.PostgreSql" Version="8.2.0" />
 		<PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="8.2.0" />
 		<PackageReference Include="DotNetCore.CAP.SqlServer" Version="8.2.0" />
-		<PackageReference Include="DotNetCore.CAP.AzureServiceBus" Version="8.2.0" />
+		<PackageReference Include="DotNetCore.CAP.AzureServiceBus" Version="8.3.2" />
 		<PackageReference Include="DotNetCore.CAP.AmazonSQS" Version="8.2.0" />
 		<PackageReference Include="DotNetCore.CAP.NATS" Version="8.2.0" />
 		<PackageReference Include="DotNetCore.CAP.RedisStreams" Version="8.2.0" />
